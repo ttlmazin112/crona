@@ -1,3 +1,6 @@
+## React Crona Project
+리액트를 이용한 코로나 집계현황 프로젝트입니다
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
